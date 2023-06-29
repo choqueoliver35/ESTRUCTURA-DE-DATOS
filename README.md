@@ -20,12 +20,14 @@ El repositorio se estructura de la siguiente manera:
 - [Java](https://www.oracle.com/java/technologies/downloads/#java11) Version de JDK 11.0.19 o superior.
 - [ECLIPSE](https://www.eclipse.org/) - Versión 5.7 o superior.
 - [PYTHON](https://www.python.org/) - Version 3.10 o superior.
-- [Visual Code](https://code.visualstudio.com/) 
+- [Visual Code](https://code.visualstudio.com/)
+- [DataGrip](https://www.jetbrains.com/es-es/datagrip/)
 
 
 ### O en su defecto usar
 - [MariaDB](https://mariadb.org) - Versión 10.2 o superior.
 - [INTELLIJ IDEA](https://www.jetbrains.com/idea/).
+
 
 ## Instalación y Uso
 
