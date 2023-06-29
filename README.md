@@ -32,4 +32,4 @@ El repositorio se estructura de la siguiente manera:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/choqueoliver35/BASE-DE-DATOS-II.git
+git clone https://github.com/choqueoliver35/ESTRUCTURA-DE-DATOS
